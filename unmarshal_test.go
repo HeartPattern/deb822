@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"heartpattern.io/deb822"
+	"github.com/HeartPattern/deb822"
 )
 
 func TestUnmarshalStanza(t *testing.T) {

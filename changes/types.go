@@ -1,6 +1,6 @@
 package changes
 
-import "heartpattern.io/deb822"
+import "github.com/HeartPattern/deb822"
 
 // File describes an upload's .changes control stanza. Structured field values
 // remain strings; checksums and OpenPGP signatures are not verified.

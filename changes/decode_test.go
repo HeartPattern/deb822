@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"heartpattern.io/deb822/changes"
+	"github.com/HeartPattern/deb822/changes"
 )
 
 const valid = `Format: 1.8

@@ -1,6 +1,6 @@
 package debiancontrol
 
-import "heartpattern.io/deb822"
+import "github.com/HeartPattern/deb822"
 
 // File is a debian/control template, not a generated DEBIAN/control file.
 // Binary fields are stored as declared; source defaults are not copied into them.

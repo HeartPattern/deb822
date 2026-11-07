@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"heartpattern.io/deb822/internal/controlfile"
+	"github.com/HeartPattern/deb822/internal/controlfile"
 )
 
 // Validate checks required fields and basic stanza constraints, not full row,

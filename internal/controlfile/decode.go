@@ -6,7 +6,7 @@ import (
 	"io"
 	"strings"
 
-	"heartpattern.io/deb822"
+	"github.com/HeartPattern/deb822"
 )
 
 // Decode reads exactly one unsigned stanza. Unlike debian/control templates,

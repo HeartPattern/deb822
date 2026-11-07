@@ -6,7 +6,7 @@ import (
 	"io"
 	"strings"
 
-	"heartpattern.io/deb822"
+	"github.com/HeartPattern/deb822"
 )
 
 // Decode reads and validates one complete debian/control file. Comments are

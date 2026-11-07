@@ -1,6 +1,6 @@
 package dsc
 
-import "heartpattern.io/deb822"
+import "github.com/HeartPattern/deb822"
 
 // File describes a source package's .dsc control stanza. File lists, checksums,
 // package lists and relationship expressions remain strings. Checksums and

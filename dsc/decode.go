@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"heartpattern.io/deb822/internal/controlfile"
+	"github.com/HeartPattern/deb822/internal/controlfile"
 )
 
 // Decode reads one unsigned .dsc stanza and checks basic constraints.

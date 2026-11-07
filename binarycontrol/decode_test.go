@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"heartpattern.io/deb822/binarycontrol"
+	"github.com/HeartPattern/deb822/binarycontrol"
 )
 
 const valid = `Package: example

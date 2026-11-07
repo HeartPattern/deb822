@@ -1,6 +1,6 @@
 package binarycontrol
 
-import "heartpattern.io/deb822"
+import "github.com/HeartPattern/deb822"
 
 // File describes a generated binary package's DEBIAN/control file.
 // Values such as Source (which may include a version), dependency expressions,
